@@ -6,7 +6,7 @@
 
 # <span style="color:#007FFF">Selenium project</span>
 This project is one the final projects for my university's software testing.  
-A React.js BMI calculator app is tested using Selenium.  
+A React.js BMI calculator (https://github.com/GermaVinsmoke/bmi-calculator) app is tested using Selenium.  
 Developers:
 
   - 9822762211 - Nima Moeintaghavi 
